@@ -1,0 +1,13 @@
+﻿  modad.cpp
+E:\modad gui\Project1\Resource.h(16,9): warning C4005: “IDB_PNG1”: 宏重定义
+  (编译源文件“modad.cpp”)
+      E:\modad gui\Project1\Resource.h(6,9):
+      参见“IDB_PNG1”的前一个定义
+  
+resource.h(16): warning RC4005: 'IDB_PNG1' : redefinition
+  
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 546 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> E:\modad gui\Project1\x64\Release\Project1.exe
